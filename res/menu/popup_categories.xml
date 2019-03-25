@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/category1"
+        android:title="Coffee" />
+    <item
+        android:id="@+id/category2"
+        android:title="Food" />
+    <item
+        android:id="@+id/category3"
+        android:title="Study" />
+    <item
+        android:id="@+id/category4"
+        android:title="Activities" />
+    <item
+        android:id="@+id/category5"
+        android:title="Products" />
+
+</menu>

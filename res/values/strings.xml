@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MobileMoneyManagement</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_transactions">Transactions</string>
+    <string name="title_more">More</string>
+
+</resources>
